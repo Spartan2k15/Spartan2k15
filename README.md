@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Spartan2k15
+- 👀 I’m interested in learning about home automation 
+- 🌱 I’m currently learning python
+- 📫 How to reach me nickpawluski@gmail.com
